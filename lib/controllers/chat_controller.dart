@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:nextflow_chatgpt/models/chat_message.dart';
+import 'package:wikilu/models/chat_message.dart';
 
 class ChatController extends GetxController {
   TextEditingController textEditingController = TextEditingController();

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:nextflow_chatgpt/controllers/chat_controller.dart';
-import 'package:nextflow_chatgpt/pages/chat/chat_page.dart';
-import 'package:nextflow_chatgpt/pages/home/home_page.dart';
+import 'package:wikilu/controllers/chat_controller.dart';
+import 'package:wikilu/pages/chat/chat_page.dart';
+import 'package:wikilu/pages/home/home_page.dart';
 
 void main() {
   Get.lazyPut(() {

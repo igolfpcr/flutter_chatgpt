@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:nextflow_chatgpt/controllers/chat_controller.dart';
+import 'package:wikilu/controllers/chat_controller.dart';
 
 class ChatInput extends StatelessWidget {
   ChatInput({super.key});

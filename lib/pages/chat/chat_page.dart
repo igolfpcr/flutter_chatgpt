@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:nextflow_chatgpt/pages/chat/chat_history_component.dart';
-import 'package:nextflow_chatgpt/pages/chat/chat_input_component.dart';
+import 'package:wikilu/pages/chat/chat_history_component.dart';
+import 'package:wikilu/pages/chat/chat_input_component.dart';
 
 class ChatPage extends StatelessWidget {
   const ChatPage({super.key});

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:nextflow_chatgpt/controllers/chat_controller.dart';
+import 'package:wikilu/controllers/chat_controller.dart';
 import 'package:get/get.dart';
-import 'package:nextflow_chatgpt/pages/chat/chat_message_balloon_component.dart';
+import 'package:wikilu/pages/chat/chat_message_balloon_component.dart';
 
 class ChatHistory extends StatelessWidget {
   ChatHistory({super.key});
